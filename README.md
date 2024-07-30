@@ -10,6 +10,10 @@ Let's contribute Postgres's QA used for LLM fine tuning.
   
 请给出问题即可, 不需要给出问题对应的答案, 请分为10个大类, 每类10个最重要的问题.   
   
+or  
+  
+参考: https://github.com/digoal/blog/blob/master/202407/20240730_01.md  
+  
   
 # 问题 Template
 ##  PostgreSQL 全方位学习指南：问题集
