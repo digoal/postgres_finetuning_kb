@@ -16,7 +16,7 @@ The goal of this project is to train an expert-level AI small model for PostgreS
 - 数据库健康报告解读
 - ... 更多模型应用等你发掘.
    
-高并发的业务可以启用基于规则的产品(类比鳄鱼脑), 复杂低并发可以启用基于AI和推理能力低产品(类比理性脑).
+高并发的业务可以启用基于规则判断的产品(类比鳄鱼脑), 低并发的复杂业务可以启用基于AI和推理能力的产品(类比理性脑).
     
 # 微调方法
 参考: https://github.com/digoal/blog/blob/master/202407/20240724_01.md
