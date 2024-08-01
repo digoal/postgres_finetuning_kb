@@ -6,7 +6,7 @@ Let's contribute Postgres's QA used for LLM fine tuning.
 The goal of this project is to train an expert-level AI small model for PostgreSQL, making it more accessible to a wider audience.  
 
 # 项目收益
-1、通过微调之后, 可以产出模型适配文件或发布生成新的模型.  
+1、通过微调之后, 可以产出模型适配文件、发布生成新的模型.  
   
 2、新的模型可被广泛应用于DBA的自我革命产品:  
 - 助手
