@@ -4,7 +4,25 @@ PostgreSQL's knowledge base for LLM fine tuning.
 Let's contribute Postgres's QA used for LLM fine tuning.  
   
 The goal of this project is to train an expert-level AI small model for PostgreSQL, making it more accessible to a wider audience.  
+
+# 项目收益
+1、通过微调之后, 可以产出模型适配文件或发布生成新的模型.  
   
+2、新的模型可被广泛应用于DBA的自我革命产品:  
+- 助手
+- 教学
+- 诊断
+- SQL审查
+- 数据库健康报告解读
+- ... 更多模型应用等你发掘
+    
+微调方法: https://github.com/digoal/blog/blob/master/202407/20240724_01.md
+   
+# 加入我们
+这个项目需要大量理论、实践经验丰富的老专家, 以及一些算力投入. 为了让项目更好的运行下去我决定成立一个虚拟组织“DBA发展联盟”, 有兴趣的朋友可以加我的微信拉大家加入组织.  
+  
+![pic](https://github.com/digoal/blog/raw/master/pic/digoal_weixin.jpg)   
+   
 # QA reference prompt
 https://github.com/digoal/blog/blob/master/202407/20240730_01.md  
 
@@ -56,5 +74,3 @@ job_职业名称/skill_知识点名称/skill_难度(l|m|h)_问题编号(001).md
 ```  
   
 
-
-  
