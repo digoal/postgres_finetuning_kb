@@ -27,7 +27,7 @@ The goal of this project is to train an expert-level AI small model for PostgreS
 ![pic](https://github.com/digoal/blog/raw/master/pic/digoal_weixin.jpg)   
    
 # QA reference prompt
-https://github.com/digoal/blog/blob/master/202407/20240730_01.md  
+生成好的问题和答案参考: https://github.com/digoal/blog/blob/master/202407/20240730_01.md  
 
 据说微调要达到比较好的效果, 至少需要1000条QA. 大家一起加油吧.  
   
